@@ -1,0 +1,14 @@
+C:\Users\Thien\Documents\CSharpProjects\MicrosoftLearn\01_FirstCSharpApplication\bin\Debug\net7.0\01_FirstCSharpApplication.exe
+C:\Users\Thien\Documents\CSharpProjects\MicrosoftLearn\01_FirstCSharpApplication\bin\Debug\net7.0\01_FirstCSharpApplication.deps.json
+C:\Users\Thien\Documents\CSharpProjects\MicrosoftLearn\01_FirstCSharpApplication\bin\Debug\net7.0\01_FirstCSharpApplication.runtimeconfig.json
+C:\Users\Thien\Documents\CSharpProjects\MicrosoftLearn\01_FirstCSharpApplication\bin\Debug\net7.0\01_FirstCSharpApplication.dll
+C:\Users\Thien\Documents\CSharpProjects\MicrosoftLearn\01_FirstCSharpApplication\bin\Debug\net7.0\01_FirstCSharpApplication.pdb
+C:\Users\Thien\Documents\CSharpProjects\MicrosoftLearn\01_FirstCSharpApplication\obj\Debug\net7.0\01_FirstCSharpApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thien\Documents\CSharpProjects\MicrosoftLearn\01_FirstCSharpApplication\obj\Debug\net7.0\01_FirstCSharpApplication.AssemblyInfoInputs.cache
+C:\Users\Thien\Documents\CSharpProjects\MicrosoftLearn\01_FirstCSharpApplication\obj\Debug\net7.0\01_FirstCSharpApplication.AssemblyInfo.cs
+C:\Users\Thien\Documents\CSharpProjects\MicrosoftLearn\01_FirstCSharpApplication\obj\Debug\net7.0\01_FirstCSharpApplication.csproj.CoreCompileInputs.cache
+C:\Users\Thien\Documents\CSharpProjects\MicrosoftLearn\01_FirstCSharpApplication\obj\Debug\net7.0\01_FirstCSharpApplication.dll
+C:\Users\Thien\Documents\CSharpProjects\MicrosoftLearn\01_FirstCSharpApplication\obj\Debug\net7.0\refint\01_FirstCSharpApplication.dll
+C:\Users\Thien\Documents\CSharpProjects\MicrosoftLearn\01_FirstCSharpApplication\obj\Debug\net7.0\01_FirstCSharpApplication.pdb
+C:\Users\Thien\Documents\CSharpProjects\MicrosoftLearn\01_FirstCSharpApplication\obj\Debug\net7.0\01_FirstCSharpApplication.genruntimeconfig.cache
+C:\Users\Thien\Documents\CSharpProjects\MicrosoftLearn\01_FirstCSharpApplication\obj\Debug\net7.0\ref\01_FirstCSharpApplication.dll
