@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thien\\Documents\\CSharpProjects\\MicrosoftLearn\\01_FirstCSharpApplication\\01_FirstCSharpApplication.csproj": {}
+    "c:\\Users\\Thien\\Documents\\CSharpProjects\\MicrosoftLearn\\01_FirstCSharpApplication\\01_FirstCSharpApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thien\\Documents\\CSharpProjects\\MicrosoftLearn\\01_FirstCSharpApplication\\01_FirstCSharpApplication.csproj": {
+    "c:\\Users\\Thien\\Documents\\CSharpProjects\\MicrosoftLearn\\01_FirstCSharpApplication\\01_FirstCSharpApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thien\\Documents\\CSharpProjects\\MicrosoftLearn\\01_FirstCSharpApplication\\01_FirstCSharpApplication.csproj",
+        "projectUniqueName": "c:\\Users\\Thien\\Documents\\CSharpProjects\\MicrosoftLearn\\01_FirstCSharpApplication\\01_FirstCSharpApplication.csproj",
         "projectName": "01_FirstCSharpApplication",
-        "projectPath": "C:\\Users\\Thien\\Documents\\CSharpProjects\\MicrosoftLearn\\01_FirstCSharpApplication\\01_FirstCSharpApplication.csproj",
+        "projectPath": "c:\\Users\\Thien\\Documents\\CSharpProjects\\MicrosoftLearn\\01_FirstCSharpApplication\\01_FirstCSharpApplication.csproj",
         "packagesPath": "C:\\Users\\Thien\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thien\\Documents\\CSharpProjects\\MicrosoftLearn\\01_FirstCSharpApplication\\obj\\",
+        "outputPath": "c:\\Users\\Thien\\Documents\\CSharpProjects\\MicrosoftLearn\\01_FirstCSharpApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
